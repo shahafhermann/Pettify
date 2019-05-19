@@ -1,13 +1,13 @@
 Our Android app for the Huji Hackathon 2019 Competition.
-We created an application which turnes pets adoption to interactive and fun experience.
-In the backend we created a database which is based on data given by non-profit organizations in Israe.
+We created an application which turns pet adoption to an interactive and fun experience.
+In the backend we created a database which is based on data given by non-profit organizations in Israel.
 
-Our goal is to make pets adoption more afordable and easy to people ,
-and to give people few options for pets which is "good" or "fit" their needs and abilities.
+Our goal is to make pet adoption more afordable and easy for people,
+and to give people a few options for pets which are "good" or "fit" their needs and abilities.
 
 Authors :
 - Omer Liberman , HUJI 
-- Shahaf Herman, HUJI
+- Shahaf Hermann, HUJI
 - May Tal, HUJI
 - Roni Gottesman, HUJI
 - Guy Bloomenfeld, HUJI
